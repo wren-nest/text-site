@@ -4,6 +4,7 @@
 <!DOCTYPE html>
 <body>
 
+<?php echo "Hello World"; ?>
 <?php echo $_POST["lilguy"]; ?>
 
 </body>
